@@ -29,6 +29,7 @@ print(pval.shape)
 #flip the map- east left, west right                                                           ?
 #longitud_grid_spacing= 45 degree, latitute_grid_spacing=30 degree
 #graticule_color='red' or 'silver'
+#add
 hp.projview(pval,
             rot=(180,0,0),
             graticule=True, 
